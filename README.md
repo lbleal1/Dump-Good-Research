@@ -12,4 +12,4 @@ note: This consists of rolling notes so you may find the structure vary from tim
 <h3 id="seminar02">Seminars</h3>
 1. [You and Your Research by Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) 
 
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](http://karpathy.github.io/2016/09/07/phd/)
