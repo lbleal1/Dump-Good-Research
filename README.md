@@ -2,6 +2,7 @@
 Resources for Learning How To Write Good Research Papers
 
 note: This consists of rolling notes so you may find the structure vary from time to time. 
+You'll also find that the order of the resources will change. I will be putting the best ones (in my opinion) at the top. 
 
 
 -----
