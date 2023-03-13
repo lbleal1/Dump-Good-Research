@@ -6,7 +6,7 @@ You'll also find that the order of the resources will change. I will be putting 
 
 
 -----
-## General (but experience-based) Advice
+## General (but seasoned) Advice
 <h3 id="blog01">Blogs</h3>
 
 [1. A Survival Guide to PhD by Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
