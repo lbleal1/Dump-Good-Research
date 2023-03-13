@@ -14,4 +14,5 @@ You'll also find that the order of the resources will change. I will be putting 
 <h3 id="seminar02">Seminars</h3>
 
 [1.  You and Your Research by Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) 
+
 [2. Tips for Writing Technical Papers by Jennifer Widom (2006)](https://cs.stanford.edu/people/widom/paper-writing.html)
