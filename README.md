@@ -10,7 +10,7 @@ note: This consists of rolling notes so you may find the structure vary from tim
 
 [1. A Survival Guide to PhD by Andrej Karpathy (2016)](http://karpathy.github.io/2016/09/07/phd/)
 
-[2. Heuristics for Scientific Writing (a Machine Learning Perspective) by Zachary Lipton (2018)] (https://www.approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
+[2. Heuristics for Scientific Writing (a Machine Learning Perspective) by Zachary Lipton (2018)](https://www.approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
 
 <h3 id="seminar02">Seminars</h3>
 
