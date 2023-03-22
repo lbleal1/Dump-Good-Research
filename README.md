@@ -2,7 +2,6 @@
 Resources for Learning How To Write Good Research Papers (and Avoid Writing Bad Ones)
 
 note: This consists of rolling notes so you may find the structure vary from time to time. 
-You'll also find that the order of the resources will change. I will be putting the best ones (in my opinion) at the top, but that doesn't mean the bad ones are at the bottom. 
 
 
 -----
@@ -10,6 +9,8 @@ You'll also find that the order of the resources will change. I will be putting 
 <h3 id="blog01">Blogs</h3>
 
 [1. A Survival Guide to PhD by Andrej Karpathy (2016)](http://karpathy.github.io/2016/09/07/phd/)
+
+[2. Heuristics for Scientific Writing (a Machine Learning Perspective) by Zachary Lipton (2018)] (https://www.approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
 
 <h3 id="seminar02">Seminars</h3>
 
