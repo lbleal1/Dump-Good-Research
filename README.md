@@ -19,4 +19,6 @@ note: This consists of rolling notes so you may find the structure vary from tim
 [2. Tips for Writing Technical Papers by Jennifer Widom (2006)](https://cs.stanford.edu/people/widom/paper-writing.html)
 
 
-## Reviewer Perspective
+## Code release
+[1. PyTorch Template](https://github.com/victoresque/pytorch-template)
+[2. Some Best Practices](https://github.com/albanie/collaborative-experts)
